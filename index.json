@@ -108,7 +108,7 @@ grid-box#xeEmBst grid-desc {
 }
 
 grid-box#xeEmBst item-title {
-  color: white;
+  color: black;
 }
 
 grid-box#xeEmBst item-desc {
