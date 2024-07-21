@@ -35,101 +35,105 @@ section {
   <section id="udbrEVw" data-type="section">
       
       <!--CSS-->
-      <style id="skSjcNY" type="text/css" data-type="css" data-size="laptop" data-content="section">
-  grid-container#hWEjIvu {
-    position: relative;
-  }
-  grid-box#TeYiDrp{
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(auto, 200px));
-    grid-auto-rows: auto;
-    gap: 10px;
-    width: 100%;
-    height: 100%;
-    padding: 3%;
-    place-content:center;
-  }
-  grid-bg#DFdUohW {
-    position: absolute;
-    height:100%;
-    width:100%;
-    z-index:-1;
-    display:block;
-  }
-  div#jIsajeH,
-  div#owTudgg,
-  div#QwgbHbE,
-  div#CWBkljb{
-    height:100%;
-    width:100%;
-  }
+      <style id="skSjcNY" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-container#hWEjIvu {
+  position: relative;
+}
 
-  div#tEnssMQ{
-    height:100%;
-    width:100%;
-    
-  }
+grid-box#TeYiDrp {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(auto, 200px));
+  grid-auto-rows: auto;
+  gap: 10px;
+  width: 100%;
+  height: 100%;
+  padding: 3%;
+  place-content: center;
+}
 
-  div#AbXPhrp{
-    height:100%;
-    width:100%;
-    
-  }
+grid-bg#DFdUohW {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  display: block;
+}
 
-  img#IRlsdxQ {
-    object-fit:cover;
-    height:100%;
-    width:100%;
-  }
+div#jIsajeH,
+div#owTudgg,
+div#QwgbHbE,
+div#CWBkljb {
+  height: 100%;
+  width: 100%;
+}
 
-  video#nmFsoXx {
-    object-fit:cover;
-    height:100%;
-    width:100%;
-  }
-  grid-box#TeYiDrp grid-item {
-    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
-    border-radius: 10px;
-    overflow: hidden;
-    background:#21292d;
-  }
-  grid-box#TeYiDrp item-body {
-    padding: 15px;
-    display: grid;
-    gap: 10px;
-  }
+div#tEnssMQ {
+  height: 100%;
+  width: 100%;
+}
 
-  grid-box#TeYiDrp grid-title {
-    font-size:1.5rem;
-    color:white;
-  }
+div#AbXPhrp {
+  height: 100%;
+  width: 100%;
+}
 
-  grid-box#TeYiDrp grid-desc {
-    font-size: 12px;
-    color: #929292;
-  }
+img#IRlsdxQ {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
 
-  grid-box#TeYiDrp item-title {
-    color: white;
-  }
+video#nmFsoXx {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
 
-  grid-box#TeYiDrp item-desc {
-    display: grid;
-    font-size: 12px;
-    color: #929292;
-  }
-  grid-head#NwbQTJV{
-    grid-column: 1 / -1;
-    display: grid;
-    margin-left: 15px;
-  }
-  grid-box#TeYiDrp item-head img{
-    background-color:black;
-    height:200px;
-    width:100%;
-    object-fit:cover;
-  }
-  </style>
+grid-box#TeYiDrp grid-item {
+  box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
+  border-radius: 10px;
+  overflow: hidden;
+  background: white;
+}
+
+grid-box#TeYiDrp item-body {
+  padding: 15px;
+  display: grid;
+  gap: 10px;
+}
+
+grid-box#TeYiDrp grid-title {
+  font-size: 1.5rem;
+  color: white;
+}
+
+grid-box#TeYiDrp grid-desc {
+  font-size: 12px;
+  color: #929292;
+}
+
+grid-box#TeYiDrp item-title {
+  color: white;
+}
+
+grid-box#TeYiDrp item-desc {
+  display: grid;
+  font-size: 12px;
+  color: #929292;
+}
+
+grid-head#NwbQTJV {
+  grid-column: 1 / -1;
+  display: grid;
+  margin-left: 15px;
+}
+
+grid-box#TeYiDrp item-head img {
+  background-color: black;
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
+</style>
       <style id="EaEaLzo" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
   grid-box#TeYiDrp {
     display: grid;
