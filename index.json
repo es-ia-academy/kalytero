@@ -128,106 +128,110 @@ section {
   <section id="MnBrMHi" data-type="section">
       
       <!--CSS-->
-      <style id="XXMsqnK" type="text/css" data-type="css" data-size="laptop" data-content="section">
-  grid-container#xJvoQTM {
-    position: relative;
-  }
-  grid-box#yzxtMDS{
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(80px,80px));
-    grid-auto-rows: auto;
-    gap: 20px;
-    width: 100%;
-    height: 100%;
-    padding: 3%;
-    place-content: center;
-  }
-  grid-bg#CGJsIir {
-    position: absolute;
-    height:100%;
-    width:100%;
-    z-index:-1;
-    display:block;
-  }
-  div#GGPfGHf,
-  div#ugtjPDA,
-  div#rwixZXg,
-  div#xWQCZNt{
-    height:100%;
-    width:100%;
-  }
+      <style id="XXMsqnK" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-container#xJvoQTM {
+  position: relative;
+}
 
-  div#pyeZqxL{
-    height:100%;
-    width:100%;
-    
-  }
+grid-box#yzxtMDS {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(80px, 80px));
+  grid-auto-rows: auto;
+  gap: 20px;
+  width: 100%;
+  height: 100%;
+  padding: 3%;
+  place-content: baseline;
+}
 
-  div#AdpSwpJ{
-    height:100%;
-    width:100%;
-    
-  }
+grid-bg#CGJsIir {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  display: block;
+}
 
-  img#DpDjuEY {
-    object-fit:cover;
-    height:100%;
-    width:100%;
-  }
+div#GGPfGHf,
+div#ugtjPDA,
+div#rwixZXg,
+div#xWQCZNt {
+  height: 100%;
+  width: 100%;
+}
 
-  video#yCUBxts {
-    object-fit:cover;
-    height:100%;
-    width:100%;
-  }
-  grid-box#yzxtMDS grid-item {
-    display:grid;
-    border-radius: 10px;
-    overflow: hidden;
-    place-content: start center;
-    place-items: center;
-  }
-  grid-box#yzxtMDS item-body {
-    padding: 0px;
-    display: grid;
-    gap: 10px;
-  }
+div#pyeZqxL {
+  height: 100%;
+  width: 100%;
+}
 
-  grid-box#yzxtMDS grid-title {
-    font-size:1.5rem;
-    color:black;
-  }
+div#AdpSwpJ {
+  height: 100%;
+  width: 100%;
+}
 
-  grid-box#yzxtMDS grid-desc {
-    font-size: 12px;
-    color: #929292;
-  }
+img#DpDjuEY {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
 
-  grid-box#yzxtMDS item-title {
-    color: black;
-  }
+video#yCUBxts {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
 
-  grid-box#yzxtMDS item-desc {
-    display: grid;
-    font-size: 12px;
-    color: #929292;
-    text-align:center;
-  }
-  grid-head#VRkRDcW{
-    grid-column: 1 / -1;
-    display: grid;
-    margin-left: 15px;
-  }
-  grid-box#yzxtMDS item-head img{
-    background-color: black;
-    height: 80px;
-    width: 80px;
-    object-fit: cover;
-    padding: 5px;
-    border-radius: 50%;
-    border: 3px solid #ffffff33;
-  }
-  </style>
+grid-box#yzxtMDS grid-item {
+  display: grid;
+  border-radius: 10px;
+  overflow: hidden;
+  place-content: start center;
+  place-items: center;
+}
+
+grid-box#yzxtMDS item-body {
+  padding: 0px;
+  display: grid;
+  gap: 10px;
+}
+
+grid-box#yzxtMDS grid-title {
+  font-size: 1.5rem;
+  color: black;
+}
+
+grid-box#yzxtMDS grid-desc {
+  font-size: 12px;
+  color: #929292;
+}
+
+grid-box#yzxtMDS item-title {
+  color: black;
+}
+
+grid-box#yzxtMDS item-desc {
+  display: grid;
+  font-size: 12px;
+  color: #929292;
+  text-align: center;
+}
+
+grid-head#VRkRDcW {
+  grid-column: 1 / -1;
+  display: grid;
+  margin-left: 15px;
+}
+
+grid-box#yzxtMDS item-head img {
+  background-color: black;
+  height: 80px;
+  width: 80px;
+  object-fit: cover;
+  padding: 5px;
+  border-radius: 50%;
+  border: 3px solid #ffffff33;
+}
+</style>
       <style id="uVLMwpl" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
   grid-box#yzxtMDS {
     display: grid;
