@@ -291,32 +291,28 @@ grid-box#yzxtMDS item-head img {
           <img id="imqlLyn" src="https://images.unsplash.com/photo-1535478044878-3ed83d5456ef?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMjl8fGFic3RyYWN0fGVufDB8MHx8fDE3MTY2NjYyNDR8MA&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="uhXHgBc">
-          <item-desc id="RlNjMKF" contenteditable="true">Lorem
-        </item-desc></item-body>
+          <item-desc id="RlNjMKF" contenteditable="true">Desayunos</item-desc></item-body>
         <button class="no-export grid-delete-item" onclick="deleteItem('kkZQknd')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><grid-item id="yEMarRk">
         <item-head id="NAhycZv">
           <img id="tpeHPHh" src="https://images.unsplash.com/photo-1558470598-a5dda9640f68?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyfHxjb2xvcnN8ZW58MHwwfHx8MTcxNjY2NDQ0NXww&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="LsiNiqZ">
-          <item-desc id="rgzBGaV" contenteditable="true">Lorem
-        </item-desc></item-body>
+          <item-desc id="rgzBGaV" contenteditable="true">Tapas</item-desc></item-body>
         <button class="no-export grid-delete-item" onclick="deleteItem('yEMarRk')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><grid-item id="IcSaUCF">
         <item-head id="FBAqfSo">
           <img id="KdoDXTZ" src="https://images.unsplash.com/photo-1541701494587-cb58502866ab?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHxjb2xvcnN8ZW58MHwwfHx8MTcxNjY2NDQ0NXww&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="RzODHan">
-          <item-desc id="pldcAFT" contenteditable="true">Lorem
-        </item-desc></item-body>
+          <item-desc id="pldcAFT" contenteditable="true">Snacks</item-desc></item-body>
         <button class="no-export grid-delete-item" onclick="deleteItem('IcSaUCF')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><grid-item id="LOUpPbu">
         <item-head id="vHabUBy">
           <img id="FfsNxjo" src="https://images.unsplash.com/photo-1472201248592-1241c92256ff?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw3fHxjb2xvcnN8ZW58MHwwfHx8MTcxNjY2NDQ0NXww&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="ECfHeab">
-          <item-desc id="MIgdInm" contenteditable="true">Lorem
-        </item-desc></item-body>
+          <item-desc id="MIgdInm" contenteditable="true">Ensaladas</item-desc></item-body>
         <button class="no-export grid-delete-item" onclick="deleteItem('LOUpPbu')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><grid-item id="INbJKfx">
         <item-head id="VriNKht">
