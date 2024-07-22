@@ -124,111 +124,224 @@ section {
   grid-box#yBOeHIr{
     grid-template-columns: repeat(1, 1fr);
   }
-  }</style><!--HTML--><div id="crbcgSJ" data-type="html"><grid-container id="lukqUtz"><grid-bg id="uutGcUP" data-type="grid-bg"><!-- bg-color --><div id="KHTFFCY" data-type="bg-color" class="div-visible"><div id="hoedNtL" data-type="solid-color" class="div-visible" style="background: rgb(255, 255, 255);"></div><div id="hCvBUit" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 0, 0), rgb(0, 0, 0));"></div><div id="vaDRspw" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(0, 0, 0));"></div></div><!-- bg-image --><div id="XAGpSCS" data-type="bg-image" class="div-hidden"><picture id="LPjdate"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="dXgeXtq" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy"></picture></div><!-- bg-video --><div id="kgTsINY" data-type="bg-video" class="div-hidden"><video id="Belafvz" autoplay="" loop="" muted="" loading="lazy"><source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4"></video></div></grid-bg><grid-box id="yBOeHIr"><grid-item id="YTLVmKQ"><grid-box id="dHrONCV"><grid-item id="uVzimbX"><a id="beNEsIE" href="#" contenteditable="true">Lorem ipsum</a><button class="no-export button-delete-item" onclick="deleteItem('uVzimbX')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="nxZNznS"><a id="kevNEBB" href="#" contenteditable="true">Lorem ipsum</a><button class="no-export button-delete-item" onclick="deleteItem('nxZNznS')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><button id="RiBjXjS" class="no-export grid-add-item" onclick="itemsButtons('dHrONCV','RiBjXjS')">+</button></grid-box></grid-item><grid-item id="qBppxtq"><img id="GKrymxJ" src="../global/file/logo-site-black.svg" data-type="image-fg" loading="lazy"></grid-item><grid-item id="pRYFdQP"><grid-box id="yJmNCXj"><grid-item id="VjNsDpO"><a id="pKUILug" href="#" contenteditable="true">Lorem ipsum</a><button class="no-export button-delete-item" onclick="deleteItem('VjNsDpO')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="qDnbwab"><a id="VLDWfyn" href="#" contenteditable="true">Lorem ipsum</a><button class="no-export button-delete-item" onclick="deleteItem('qDnbwab')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><button id="wffzxXG" class="no-export grid-add-item" onclick="itemsButtons('yJmNCXj','wffzxXG')">+</button></grid-box></grid-item></grid-box></grid-container></div><!--JS--><script id="briuiCU" data-type="js"></script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;"></button></section><section id="aGOXAxY" data-type="section"><!--CSS--><style id="uqDrwOz" type="text/css" data-type="css" data-size="laptop" data-content="section">
-  grid-container#EcIRFhr {
+  }</style><!--HTML--><div id="crbcgSJ" data-type="html"><grid-container id="lukqUtz"><grid-bg id="uutGcUP" data-type="grid-bg"><!-- bg-color --><div id="KHTFFCY" data-type="bg-color" class="div-visible"><div id="hoedNtL" data-type="solid-color" class="div-visible" style="background: rgb(255, 255, 255);"></div><div id="hCvBUit" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 0, 0), rgb(0, 0, 0));"></div><div id="vaDRspw" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(0, 0, 0));"></div></div><!-- bg-image --><div id="XAGpSCS" data-type="bg-image" class="div-hidden"><picture id="LPjdate"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="dXgeXtq" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy"></picture></div><!-- bg-video --><div id="kgTsINY" data-type="bg-video" class="div-hidden"><video id="Belafvz" autoplay="" loop="" muted="" loading="lazy"><source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4"></video></div></grid-bg><grid-box id="yBOeHIr"><grid-item id="YTLVmKQ"><grid-box id="dHrONCV"><grid-item id="uVzimbX"><a id="beNEsIE" href="#" contenteditable="true">MENU</a><button class="no-export button-delete-item" onclick="deleteItem('uVzimbX')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><button id="RiBjXjS" class="no-export grid-add-item" onclick="itemsButtons('dHrONCV','RiBjXjS')">+</button></grid-box></grid-item><grid-item id="qBppxtq"><img id="GKrymxJ" src="../global/file/logo-site-black.svg" data-type="image-fg" loading="lazy"></grid-item><grid-item id="pRYFdQP"><grid-box id="yJmNCXj"><grid-item id="qDnbwab"><a id="VLDWfyn" href="#" contenteditable="true">CARRITO</a><button class="no-export button-delete-item" onclick="deleteItem('qDnbwab')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><button id="wffzxXG" class="no-export grid-add-item" onclick="itemsButtons('yJmNCXj','wffzxXG')">+</button></grid-box></grid-item></grid-box></grid-container></div><!--JS--><script id="briuiCU" data-type="js"></script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;"></button></section>
+  
+  
+  
+  
+  <section id="qLQFitl" data-type="section">
+      
+      <!--CSS-->
+      <style id="ePyMKyX" type="text/css" data-type="css" data-size="laptop" data-content="section">
+  grid-container#zfEhbpe {
     position: relative;
   }
-
-  grid-bg#hxoIHgX {
+  grid-box#PtwlquY{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(80px,80px));
+    grid-auto-rows: auto;
+    gap: 20px;
+    width: 100%;
+    height: 100%;
+    padding: 3%;
+    place-content: center;
+  }
+  grid-bg#OMIAbXL {
     position: absolute;
     height:100%;
     width:100%;
     z-index:-1;
     display:block;
   }
-  div#qInNmLQ,
-  div#MipoUkz,
-  div#uDakYXn,
-  div#lRKqdOF{
+  div#UELecmz,
+  div#ZFbtFcv,
+  div#GuxwESp,
+  div#kicWZtC{
     height:100%;
     width:100%;
   }
 
-  div#ubHSwEZ{
+  div#bHeyuor{
     height:100%;
     width:100%;
     
   }
 
-  div#PAtvbZM{
+  div#uuaMmtC{
     height:100%;
     width:100%;
     
   }
 
-  img#HeINmTS {
+  img#dXywPvD {
     object-fit:cover;
     height:100%;
     width:100%;
   }
 
-  video#AXxENjz {
+  video#BRyjjMv {
     object-fit:cover;
     height:100%;
     width:100%;
   }
-  
-  grid-box#bixQfQR{
-    display: grid;
-    grid-template-columns: repeat(3,auto);
-    grid-auto-rows: auto;
-    width: 100%;
-    height: 100%;
-    min-height: 50px;
-    place-content: center;
+  grid-box#PtwlquY grid-item {
+    display:grid;
+    border-radius: 10px;
+    overflow: hidden;
+    place-content: start center;
     place-items: center;
   }
-  grid-item#zWIBhNs{
-    display: grid;
-    place-content: center;
+  grid-box#PtwlquY item-body {
     padding: 0px;
-    gap: 0px;
-    height: auto;
+    display: grid;
+    gap: 10px;
   }
 
-  img#wHyQXnL{
-    object-fit:cover;
-    height:100%;
-    width:100%;
-  }
-  #AvUwQwl{
-    display: flex;
-    gap: 10px;
-    flex-flow: wrap;
-  }
-  #AvUwQwl a{
-    border: none;
-    padding: 0 15px;
-    color: white;
-    font-size: 14px;
-    border-radius: 10px;
-    text-underline-position: under;
-    height: 50px;
-    width: fit-content;
-    display: grid;
-    place-content: center;
+  grid-box#PtwlquY grid-title {
+    font-size:1.5rem;
+    color:white;
   }
 
-  #uqRjVbY{
-    display: flex;
-    gap: 10px;
-    flex-flow: wrap;
+  grid-box#PtwlquY grid-desc {
+    font-size: 12px;
+    color: #929292;
   }
-  #uqRjVbY a{
-    border: none;
-    padding: 0 15px;
+
+  grid-box#PtwlquY item-title {
     color: white;
-    font-size: 14px;
-    border-radius: 10px;
-    text-underline-position: under;
-    height: 50px;
-    width: fit-content;
+  }
+
+  grid-box#PtwlquY item-desc {
     display: grid;
-    place-content: center;
+    font-size: 12px;
+    color: #929292;
+    text-align:center;
   }
-  
-  </style><style id="YFufVNU" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){}</style><style id="Xasqlfd" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
-  grid-box#bixQfQR{
-    grid-template-columns: repeat(1, 1fr);
+  grid-head#TBrPAqE{
+    grid-column: 1 / -1;
+    display: grid;
+    margin-left: 15px;
   }
-  }</style><!--HTML--><div id="tqaSIuF" data-type="html"><grid-container id="ezxpOTz"><grid-bg id="hxoIHgX" data-type="grid-bg"><!-- bg-color --><div id="qInNmLQ" data-type="bg-color" class="div-visible"><div id="MipoUkz" data-type="solid-color" class="div-visible" style="background: rgb(0, 0, 0);"></div><div id="uDakYXn" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 0, 0), rgb(0, 0, 0));"></div><div id="lRKqdOF" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(0, 0, 0));"></div></div><!-- bg-image --><div id="ubHSwEZ" data-type="bg-image" class="div-hidden"><picture id="OtWChzg"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="HeINmTS" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy"></picture></div><!-- bg-video --><div id="PAtvbZM" data-type="bg-video" class="div-hidden"><video id="AXxENjz" autoplay="" loop="" muted="" loading="lazy"><source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4"></video></div></grid-bg><grid-box id="bixQfQR"><grid-item id="ccUCqUt"><grid-box id="AvUwQwl"><grid-item id="gRnqmSx"><a id="VfDVmbP" href="#" contenteditable="true">Lorem ipsum</a><button class="no-export button-delete-item" onclick="deleteItem('gRnqmSx')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="mciigAk"><a id="PKwgWfH" href="#" contenteditable="true">Lorem ipsum</a><button class="no-export button-delete-item" onclick="deleteItem('mciigAk')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><button id="hIJfjuh" class="no-export grid-add-item" onclick="itemsButtons('AvUwQwl','hIJfjuh')">+</button></grid-box></grid-item><grid-item id="zWIBhNs"><img id="wHyQXnL" src="../global/file/logo-site-white.svg" data-type="image-fg" loading="lazy"></grid-item><grid-item id="ipXtrIi"><grid-box id="uqRjVbY"><grid-item id="gdaKfab"><a id="EgtmFaN" href="#" contenteditable="true">Lorem ipsum</a><button class="no-export button-delete-item" onclick="deleteItem('gdaKfab')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="oJPMeXL"><a id="TicuHgu" href="#" contenteditable="true">Lorem ipsum</a><button class="no-export button-delete-item" onclick="deleteItem('oJPMeXL')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><button id="McLVQTx" class="no-export grid-add-item" onclick="itemsButtons('uqRjVbY','McLVQTx')">+</button></grid-box></grid-item></grid-box></grid-container></div><!--JS--><script id="oJrExMt" data-type="js"></script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;"></button></section></grid-body>
+  grid-box#PtwlquY item-head img{
+    background-color: black;
+    height: 80px;
+    width: 80px;
+    object-fit: cover;
+    padding: 5px;
+    border-radius: 50%;
+    border: 3px solid #ffffff33;
+  }
+  </style>
+      <style id="ABsVqQx" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-box#PtwlquY {
+    display: grid;
+  }
+  }</style>
+      <style id="OfgoZbj" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-head#TBrPAqE{
+    grid-column: 1 / -1;
+    display: grid;
+    place-content:center;
+    text-align:center;
+    padding:35px;
+  }
+  grid-box#PtwlquY {
+      display: grid;
+      gap:5px;
+      padding-bottom:35px;
+      grid-template-columns: 1fr 1fr 1fr;
+  }
+  }</style>
+      
+      <!--HTML-->
+      <div id="YypNxvh" data-type="html">
+        <grid-container id="KOwjEOi">
+          
+        <grid-bg id="OMIAbXL" data-type="grid-bg">
+          <!-- bg-color -->
+          <div id="UELecmz" data-type="bg-color" class="div-visible">
+            <div id="ZFbtFcv" data-type="solid-color" class="div-visible" style="background: rgb(0, 0, 0);"></div>
+            <div id="GuxwESp" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
+            <div id="kicWZtC" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
+          </div> 
+          <!-- bg-image -->
+          <div id="bHeyuor" data-type="bg-image" class="div-hidden">
+            <picture id="UidVBNp">
+              <source srcset="" media="(max-width:640px)">
+              <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+              <img id="dXywPvD" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/1707848593-1.webp" data-type="img-bg" loading="lazy">
+            </picture>
+          </div> 
+          <!-- bg-video -->
+          <div id="uuaMmtC" data-type="bg-video" class="div-hidden">
+            <video id="BRyjjMv" autoplay="" loop="" muted="" loading="lazy">
+              <source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4">
+            </video>
+          </div> 
+        </grid-bg>
+
+
+          <grid-box id="PtwlquY">
+            <grid-head id="TBrPAqE">
+              <grid-title id="jRWNHwj" contenteditable="true">MENU</grid-title>
+              <grid-desc id="OkGpgDi" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc>
+            </grid-head>
+            <grid-item id="jfZMKoZ">
+        <item-head id="QcYzfGK">
+          <img id="TPLLslH" src="https://images.unsplash.com/photo-1535478044878-3ed83d5456ef?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMjl8fGFic3RyYWN0fGVufDB8MHx8fDE3MTY2NjYyNDR8MA&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="hZTjfOt">
+          <item-desc id="sYOgMuz" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('jfZMKoZ')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="QZPQXtb">
+        <item-head id="mEqMsHX">
+          <img id="YUzwcko" src="https://images.unsplash.com/photo-1558470598-a5dda9640f68?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyfHxjb2xvcnN8ZW58MHwwfHx8MTcxNjY2NDQ0NXww&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="GzkjPvi">
+          <item-desc id="JtXuECo" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('QZPQXtb')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="zYZClyt">
+        <item-head id="uRZOolS">
+          <img id="AxHNIzs" src="https://images.unsplash.com/photo-1541701494587-cb58502866ab?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHxjb2xvcnN8ZW58MHwwfHx8MTcxNjY2NDQ0NXww&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="xcHbgxO">
+          <item-desc id="bJPgnoW" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('zYZClyt')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="jbRhNpD">
+        <item-head id="nOJtuUE">
+          <img id="YmSlFOb" src="https://images.unsplash.com/photo-1472201248592-1241c92256ff?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw3fHxjb2xvcnN8ZW58MHwwfHx8MTcxNjY2NDQ0NXww&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="gWOvvkv">
+          <item-desc id="WmKYCGa" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('jbRhNpD')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="gqAgXsb">
+        <item-head id="iiYoYLv">
+          <img id="WtyVIWt" src="https://images.unsplash.com/photo-1505909182942-e2f09aee3e89?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOXx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NDV8MA&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="pPYuiTs">
+          <item-desc id="qqpGcVP" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('gqAgXsb')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="wRzTqSy">
+        <item-head id="cokpQdQ">
+          <img id="tmivjBh" src="https://images.unsplash.com/photo-1530714457710-6bf1899c1d32?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NjJ8MA&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="TQmZkxf">
+          <item-desc id="QmzLJuF" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('wRzTqSy')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><button id="cYcufNT" class="no-export grid-add-item" onclick="itemsCercle('PtwlquY','cYcufNT', '80px', '../global/file/empty.svg')">+</button>
+          </grid-box>
+        </grid-container>
+      </div>
+      
+      <!--JS-->
+      <script id="IpuXjCU" data-type="js"></script>
+      <!--EDIT-->
+      <button class="toolbar-open" onclick="toolsOpenModal(this)"></button>
+  </section>
+  </grid-body>
