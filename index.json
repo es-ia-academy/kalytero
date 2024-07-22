@@ -348,101 +348,105 @@ grid-box#yzxtMDS item-head img {
   <section id="BLsVGBD" data-type="section">
       
       <!--CSS-->
-      <style id="UVPShyP" type="text/css" data-type="css" data-size="laptop" data-content="section">
-  grid-container#smaTBag {
-    position: relative;
-  }
-  grid-box#NhqsSgv{
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(auto, 200px));
-    grid-auto-rows: auto;
-    gap: 10px;
-    width: 100%;
-    height: 100%;
-    padding: 3%;
-    place-content:center;
-  }
-  grid-bg#vwxLXwK {
-    position: absolute;
-    height:100%;
-    width:100%;
-    z-index:-1;
-    display:block;
-  }
-  div#SLfJnWK,
-  div#kRKCijW,
-  div#XuuWitl,
-  div#BcRLNGD{
-    height:100%;
-    width:100%;
-  }
+      <style id="UVPShyP" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-container#smaTBag {
+  position: relative;
+}
 
-  div#pNGQzhU{
-    height:100%;
-    width:100%;
-    
-  }
+grid-box#NhqsSgv {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(auto, 200px));
+  grid-auto-rows: auto;
+  gap: 10px;
+  width: 100%;
+  height: 100%;
+  padding: 3%;
+  place-content: baseline;
+}
 
-  div#TEMYNJN{
-    height:100%;
-    width:100%;
-    
-  }
+grid-bg#vwxLXwK {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  display: block;
+}
 
-  img#ujTKtBO {
-    object-fit:cover;
-    height:100%;
-    width:100%;
-  }
+div#SLfJnWK,
+div#kRKCijW,
+div#XuuWitl,
+div#BcRLNGD {
+  height: 100%;
+  width: 100%;
+}
 
-  video#AavtGQc {
-    object-fit:cover;
-    height:100%;
-    width:100%;
-  }
-  grid-box#NhqsSgv grid-item {
-    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
-    border-radius: 10px;
-    overflow: hidden;
-    background:white;
-  }
-  grid-box#NhqsSgv item-body {
-    padding: 15px;
-    display: grid;
-    gap: 10px;
-  }
+div#pNGQzhU {
+  height: 100%;
+  width: 100%;
+}
 
-  grid-box#NhqsSgv grid-title {
-    font-size:1.5rem;
-    color:black;
-  }
+div#TEMYNJN {
+  height: 100%;
+  width: 100%;
+}
 
-  grid-box#NhqsSgv grid-desc {
-    font-size: 12px;
-    color: #929292;
-  }
+img#ujTKtBO {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
 
-  grid-box#NhqsSgv item-title {
-    color: black;
-  }
+video#AavtGQc {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
 
-  grid-box#NhqsSgv item-desc {
-    display: grid;
-    font-size: 12px;
-    color: #929292;
-  }
-  grid-head#KEbsrcP{
-    grid-column: 1 / -1;
-    display: grid;
-    margin-left: 15px;
-  }
-  grid-box#NhqsSgv item-head img{
-    background-color:black;
-    height:200px;
-    width:100%;
-    object-fit:cover;
-  }
-  </style>
+grid-box#NhqsSgv grid-item {
+  box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
+  border-radius: 10px;
+  overflow: hidden;
+  background: white;
+}
+
+grid-box#NhqsSgv item-body {
+  padding: 15px;
+  display: grid;
+  gap: 10px;
+}
+
+grid-box#NhqsSgv grid-title {
+  font-size: 1.5rem;
+  color: black;
+}
+
+grid-box#NhqsSgv grid-desc {
+  font-size: 12px;
+  color: #929292;
+}
+
+grid-box#NhqsSgv item-title {
+  color: black;
+}
+
+grid-box#NhqsSgv item-desc {
+  display: grid;
+  font-size: 12px;
+  color: #929292;
+}
+
+grid-head#KEbsrcP {
+  grid-column: 1 / -1;
+  display: grid;
+  margin-left: 15px;
+}
+
+grid-box#NhqsSgv item-head img {
+  background-color: black;
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
+</style>
       <style id="PfZlJBP" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
   grid-box#NhqsSgv {
     display: grid;
