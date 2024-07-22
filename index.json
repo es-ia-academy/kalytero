@@ -354,7 +354,7 @@ grid-box#yzxtMDS item-head img {
 
 grid-box#NhqsSgv {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(auto, 200px));
+  grid-template-columns: repeat(auto-fit, minmax(auto, 175px));
   grid-auto-rows: auto;
   gap: 10px;
   width: 100%;
