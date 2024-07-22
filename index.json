@@ -227,9 +227,9 @@ grid-box#yzxtMDS item-head img {
   height: 80px;
   width: 80px;
   object-fit: cover;
-  padding: 5px;
+  padding: 0px;
   border-radius: 50%;
-  border: 3px solid #ffffff33;
+  border: 0px solid #ffffff33;
 }
 </style>
       <style id="uVLMwpl" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
