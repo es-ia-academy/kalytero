@@ -279,7 +279,7 @@ section {
 
           <grid-box id="yzxtMDS">
             <grid-head id="VRkRDcW">
-              <grid-title id="nnMzXJz" contenteditable="true">EL MENU</grid-title>
+              <grid-title id="nnMzXJz" contenteditable="true">Nuestro Menu</grid-title>
               <grid-desc id="rqCjBBA" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc>
             </grid-head>
             <grid-item id="kkZQknd">
@@ -487,7 +487,7 @@ section {
 
           <grid-box id="NhqsSgv">
             <grid-head id="KEbsrcP">
-              <grid-title id="hFWOsFm" contenteditable="true">DESAYUNOS</grid-title>
+              <grid-title id="hFWOsFm" contenteditable="true">Desayunos</grid-title>
               <grid-desc id="advJHUi" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc>
             </grid-head>
             <grid-item id="XiEImqa">
