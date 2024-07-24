@@ -307,7 +307,7 @@ img#MwUoQhu {
           <img id="YlOCGRD" src="https://images.unsplash.com/photo-1535478044878-3ed83d5456ef?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMjl8fGFic3RyYWN0fGVufDB8MHx8fDE3MTY2NjYyNDR8MA&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="BClHzQU">
-          <item-desc id="QuxvCMk"><a href="www">Lorem</a>
+          <item-desc id="QuxvCMk"><a href="https://yahoo.com">Yahoo</a>
         </item-desc></item-body>
         
       </grid-item><grid-item id="FqgzHAb" class="clickable-div">
@@ -315,7 +315,7 @@ img#MwUoQhu {
           <img id="VyIcIVr" src="https://images.unsplash.com/photo-1558470598-a5dda9640f68?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyfHxjb2xvcnN8ZW58MHwwfHx8MTcxNjY2NDQ0NXww&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="zjwithc">
-          <item-desc id="uOJnTPi"><a href="">Lorem</a>
+          <item-desc id="uOJnTPi"><a href="https://google.com">Google</a>
         </item-desc></item-body>
         
       </grid-item><grid-item id="HXmVhXU" class="clickable-div">
@@ -358,16 +358,18 @@ img#MwUoQhu {
       <!--JS-->
       <script id="ywcvkwj" data-type="js">document.addEventListener('DOMContentLoaded', () => {
   const gridItem = document.querySelector('.clickable-div');
+  const linkElement = gridItem.querySelector('.grid-link');
+  const linkURL = linkElement.href;
 
   gridItem.addEventListener('click', (event) => {
     // Verifica si el clic fue en un enlace
-    if (event.target.tagName !== 'A') {
-      // Redirige al usuario a la URL especificada
-      window.location.href = 'URL_DEL_ENLACE';
+    if (event.target.tagName !== 'A' && event.target.tagName !==
+      'BUTTON' && event.target.tagName !== 'IMG') {
+      // Redirige al usuario a la URL del enlace
+      window.location.href = linkURL;
     }
   });
-});
-</script>
+});</script>
       <!--EDIT-->
       
   </section>
