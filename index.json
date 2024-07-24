@@ -270,7 +270,7 @@ img#MwUoQhu {
 }
 
 function scrollToBottomWithOffset() {
-  const offset = 80;
+  const offset = -180;
   const documentHeight = Math.max(
     document.body.scrollHeight,
     document.body.offsetHeight,
@@ -279,7 +279,7 @@ function scrollToBottomWithOffset() {
     document.documentElement.offsetHeight
   );
   const windowHeight = window.innerHeight;
-  
+
   window.scrollTo({
     top: documentHeight - windowHeight - offset,
     behavior: 'smooth'
