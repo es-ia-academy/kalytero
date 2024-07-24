@@ -299,7 +299,7 @@ img#MwUoQhu {
 
           <grid-box id="bufFJfb">
             <grid-head id="IrmOUeh">
-              <grid-title id="gQuIzZQ">Lorem ipsum</grid-title>
+              <grid-title id="gQuIzZQ">Clicable</grid-title>
               <grid-desc id="DTkUeAz">Lorem ipsum dolor sit amet</grid-desc>
             </grid-head>
             <grid-item id="MpixNFe" class="clickable-div">
@@ -358,21 +358,21 @@ img#MwUoQhu {
       <!--JS-->
       <script id="cOFuiUj" data-type="js">function makeClickableDivs() {
   // Select all div elements
-  const divs = document.querySelectorAll('div');
+  const divs = document.querySelectorAll('grid-item');
 
   divs.forEach(div => {
     // Check if the div contains any links
     const link = div.querySelector('a');
-    
+
     if (link) {
       // Make the div clickable
       div.style.cursor = 'pointer';
-      
+
       // Add click event listener to the div
-      div.addEventListener('click', function(event) {
+      div.addEventListener('click', function (event) {
         // Prevent the click from propagating to elements underneath
         event.stopPropagation();
-        
+
         // Simulate a click on the first link found in the div
         link.click();
       });
