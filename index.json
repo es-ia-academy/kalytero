@@ -270,6 +270,7 @@ img#MwUoQhu {
 // Call the function when the DOM is fully loaded
 document.addEventListener('DOMContentLoaded', makeClickableDivs);*/
 
+
 function makeClickableDivs() {
   // Select all grid-item elements
   const divs = document.querySelectorAll('grid-item');
