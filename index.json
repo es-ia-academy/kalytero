@@ -288,7 +288,8 @@ function makeClickableDivs() {
         link.click();
         // Scroll to the div position plus or minus 80 pixels
         window.scrollTo({
-          top: div.getBoundingClientRect().top + window.scrollY - 80,
+          top: div.getBoundingClientRect().top + window.scrollY -
+            80,
           behavior: 'smooth'
         });
       });
@@ -297,8 +298,7 @@ function makeClickableDivs() {
 }
 
 // Call the function when the DOM is fully loaded
-document.addEventListener('DOMContentLoaded', makeClickableDivs);
-</script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)"></button></section><section id="XsBGiOS" data-type="section"><!--CSS--><style id="nNbnaPZ" type="text/css" data-type="css" data-size="laptop" data-content="section">
+document.addEventListener('DOMContentLoaded', makeClickableDivs);</script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)"></button></section><section id="XsBGiOS" data-type="section"><!--CSS--><style id="nNbnaPZ" type="text/css" data-type="css" data-size="laptop" data-content="section">
   grid-container#rlBxtIO {
     position: relative;
   }
