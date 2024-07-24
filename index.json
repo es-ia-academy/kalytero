@@ -237,6 +237,7 @@ grid-box#hcMrHXW item-head img {
   border-radius: 50%;
   border: none;
 }
+
 .clickable-div {
   position: relative;
 }
@@ -248,17 +249,22 @@ grid-box#hcMrHXW item-head img {
   left: 0;
   width: 100%;
   height: 100%;
-  z-index: 1; /* Asegúrate de que este valor sea mayor que el contenido interno */
+  z-index: 1;
+  /* Asegúrate de que este valor sea mayor que el contenido interno */
 }
 
 .clickable-div .grid-link {
   position: relative;
-  z-index: 2; /* Asegúrate de que este valor sea mayor que el pseudo-elemento */
-  display: block; /* Para que el enlace cubra todo el área del pseudo-elemento */
+  z-index: 2;
+  /* Asegúrate de que este valor sea mayor que el pseudo-elemento */
+  display: block;
+  /* Para que el enlace cubra todo el área del pseudo-elemento */
   width: 100%;
   height: 100%;
-  text-decoration: none; /* Opcional: para quitar el subrayado del enlace */
-}</style>
+  text-decoration: none;
+  /* Opcional: para quitar el subrayado del enlace */
+}
+</style>
       <style id="PBCHhpv" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
   grid-box#hcMrHXW {
     display: grid;
