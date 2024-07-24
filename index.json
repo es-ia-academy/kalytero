@@ -1,4 +1,7 @@
-<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">body,
+<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">html{
+    scroll-padding: 0px 0px 0px 500px;
+}
+body,
 grid-page {
   background: white;
   display: block;
@@ -25,8 +28,6 @@ section {
   z-index: 0;
   border-radius: 0px;
   overflow: hidden;
-  scroll-padding: 0px 0px 0px 50px;
-  
 }
 </style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) {}
 </style><grid-body id="grid-body"><section id="WfhsCoo" data-type="section"><!--CSS--><style id="IZIuPlu" type="text/css" data-type="css" data-size="laptop" data-content="section">section#WfhsCoo {
