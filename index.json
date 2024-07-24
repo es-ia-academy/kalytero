@@ -6,8 +6,6 @@ grid-page {
   height: 100%;
   overflow-x: hidden;
   position: absolute;
-  scroll-snap-type: y mandatory;
-  scroll-margin-bottom: 280px;
 }
 
 grid-body {
@@ -27,6 +25,7 @@ section {
   z-index: 0;
   border-radius: 0px;
   overflow: hidden;
+  scroll-padding: 0px 0px 0px 50px;
   
 }
 </style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) {}
