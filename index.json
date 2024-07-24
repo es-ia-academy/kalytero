@@ -285,7 +285,7 @@ img#MwUoQhu {
 
           <grid-box id="hcMrHXW">
             <grid-head id="CpDHXdZ">
-              <grid-title id="FodmnQO" contenteditable="true">Lorem ipsum</grid-title>
+              <grid-title id="FodmnQO" contenteditable="true">Clics</grid-title>
               <grid-desc id="tqDuoSX" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc>
             </grid-head>
             <grid-item id="XuzsgIy" class="clickable-div">
@@ -293,7 +293,7 @@ img#MwUoQhu {
           <img id="YlOCGRD" src="https://images.unsplash.com/photo-1535478044878-3ed83d5456ef?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMjl8fGFic3RyYWN0fGVufDB8MHx8fDE3MTY2NjYyNDR8MA&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="BClHzQU">
-          <item-desc id="QuxvCMk" contenteditable="true"><a href="">Lorem</a>
+          <item-desc id="QuxvCMk" contenteditable="true"><a href="www">Lorem</a>
         </item-desc></item-body>
         <button class="no-export grid-delete-item" onclick="deleteItem('XuzsgIy')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><grid-item id="FqgzHAb" class="clickable-div">
