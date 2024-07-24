@@ -344,21 +344,21 @@ img#MwUoQhu {
       <!--JS-->
       <script id="cOFuiUj" data-type="js">function makeClickableDivs() {
   // Select all div elements
-  const divs = document.querySelectorAll('div');
+  const divs = document.querySelectorAll('grid-item');
 
   divs.forEach(div => {
     // Check if the div contains any links
     const link = div.querySelector('a');
-    
+
     if (link) {
       // Make the div clickable
       div.style.cursor = 'pointer';
-      
+
       // Add click event listener to the div
-      div.addEventListener('click', function(event) {
+      div.addEventListener('click', function (event) {
         // Prevent the click from propagating to elements underneath
         event.stopPropagation();
-        
+
         // Simulate a click on the first link found in the div
         link.click();
       });
