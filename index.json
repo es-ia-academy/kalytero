@@ -343,17 +343,20 @@ img#MwUoQhu {
       
       <!--JS-->
       <script id="ywcvkwj" data-type="js">document.addEventListener('DOMContentLoaded', () => {
-  const gridItem = document.querySelector('.clickable-div');
-  const linkElement = gridItem.querySelector('.grid-link');
-  const linkURL = linkElement.href;
+  const gridItems = document.querySelectorAll('.clickable-div');
 
-  gridItem.addEventListener('click', (event) => {
-    // Verifica si el clic fue en un enlace
-    if (event.target.tagName !== 'A' && event.target.tagName !==
-      'BUTTON' && event.target.tagName !== 'IMG') {
-      // Redirige al usuario a la URL del enlace
-      window.location.href = linkURL;
-    }
+  gridItems.forEach(gridItem => {
+    const linkElement = gridItem.querySelector('.grid-link');
+    const linkURL = linkElement.href;
+
+    gridItem.addEventListener('click', (event) => {
+      // Verifica si el clic fue en un enlace
+      if (event.target.tagName !== 'A' && event.target.tagName !==
+        'BUTTON' && event.target.tagName !== 'IMG') {
+        // Redirige al usuario a la URL del enlace
+        window.location.href = linkURL;
+      }
+    });
   });
 });</script>
       <!--EDIT-->
