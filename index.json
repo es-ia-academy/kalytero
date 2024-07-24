@@ -270,7 +270,7 @@ img#MwUoQhu {
 }
 
 function scrollToBottomWithOffset() {
-  const offset = -180;
+  const offset = 180;
   const documentHeight = Math.max(
     document.body.scrollHeight,
     document.body.offsetHeight,
