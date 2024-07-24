@@ -299,7 +299,7 @@ img#MwUoQhu {
 
           <grid-box id="hcMrHXW">
             <grid-head id="CpDHXdZ">
-              <grid-title id="FodmnQO">Clics3</grid-title>
+              <grid-title id="FodmnQO">ClicsOld</grid-title>
               <grid-desc id="tqDuoSX">Lorem ipsum dolor sit amet</grid-desc>
             </grid-head>
             <grid-item id="XuzsgIy" class="clickable-div">
@@ -357,26 +357,16 @@ img#MwUoQhu {
       
       <!--JS-->
       <script id="ywcvkwj" data-type="js">document.addEventListener('DOMContentLoaded', () => {
-  const gridItems = document.querySelectorAll('.clickable-div');
+  const gridItem = document.querySelector('.clickable-div');
 
-  gridItems.forEach(gridItem => {
-    const linkElement = gridItem.querySelector('.grid-link');
-    
-    // Solo agregar el event listener si el enlace existe
-    if (linkElement) {
-      const linkURL = linkElement.href;
-
-      gridItem.addEventListener('click', (event) => {
-        // Verifica si el clic fue en un enlace, botón o imagen
-        if (event.target.tagName !== 'A' && event.target.tagName !== 'BUTTON' && event.target.tagName !== 'IMG') {
-          // Redirige al usuario a la URL del enlace
-          window.location.href = linkURL;
-        }
-      });
+  gridItem.addEventListener('click', (event) => {
+    // Verifica si el clic fue en un enlace
+    if (event.target.tagName !== 'A') {
+      // Redirige al usuario a la URL especificada
+      window.location.href = 'https://google.fr';
     }
   });
-});
-</script>
+});</script>
       <!--EDIT-->
       
   </section>
