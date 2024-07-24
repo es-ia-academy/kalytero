@@ -347,18 +347,22 @@ img#MwUoQhu {
 
   gridItems.forEach(gridItem => {
     const linkElement = gridItem.querySelector('.grid-link');
-    const linkURL = linkElement.href;
+    
+    // Solo agregar el event listener si el enlace existe
+    if (linkElement) {
+      const linkURL = linkElement.href;
 
-    gridItem.addEventListener('click', (event) => {
-      // Verifica si el clic fue en un enlace
-      if (event.target.tagName !== 'A' && event.target.tagName !==
-        'BUTTON' && event.target.tagName !== 'IMG') {
-        // Redirige al usuario a la URL del enlace
-        window.location.href = linkURL;
-      }
-    });
+      gridItem.addEventListener('click', (event) => {
+        // Verifica si el clic fue en un enlace, botón o imagen
+        if (event.target.tagName !== 'A' && event.target.tagName !== 'BUTTON' && event.target.tagName !== 'IMG') {
+          // Redirige al usuario a la URL del enlace
+          window.location.href = linkURL;
+        }
+      });
+    }
   });
-});</script>
+});
+</script>
       <!--EDIT-->
       <button class="toolbar-open" onclick="toolsOpenModal(this)"></button>
   </section>
