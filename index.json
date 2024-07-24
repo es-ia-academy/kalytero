@@ -143,7 +143,7 @@ section {
   }</style>
       
       <!--HTML-->
-      <div id="ieYgMar" data-type="html"><grid-container id="EpxROcf" style="height:80px;">
+      <div id="ieYgMar" data-type="html"><grid-container id="EpxROcf" style="height:80px; display:block;">
 </grid-container></div>
       
       <!--JS-->
