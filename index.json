@@ -349,13 +349,13 @@ img#MwUoQhu {
 
   gridItem.addEventListener('click', (event) => {
     // Verifica si el clic fue en un enlace
-    if (event.target.tagName !== 'A' && event.target.tagName !== 'BUTTON' && event.target.tagName !== 'IMG') {
+    if (event.target.tagName !== 'A' && event.target.tagName !==
+      'BUTTON' && event.target.tagName !== 'IMG') {
       // Redirige al usuario a la URL del enlace
       window.location.href = linkURL;
     }
   });
-});
-</script>
+});</script>
       <!--EDIT-->
       <button class="toolbar-open" onclick="toolsOpenModal(this)"></button>
   </section>
