@@ -342,17 +342,7 @@ img#MwUoQhu {
       </div>
       
       <!--JS-->
-      <script id="ywcvkwj" data-type="js">document.addEventListener('DOMContentLoaded', () => {
-  const gridItem = document.querySelector('.clickable-div');
-
-  gridItem.addEventListener('click', (event) => {
-    // Verifica si el clic fue en un enlace
-    if (event.target.tagName !== 'A') {
-      // Redirige al usuario a la URL especificada
-      window.location.href = 'https://google.fr';
-    }
-  });
-});</script>
+      <script id="ywcvkwj" data-type="js"></script>
       <!--EDIT-->
       <button class="toolbar-open" onclick="toolsOpenModal(this)"></button>
   </section>
