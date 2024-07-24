@@ -298,10 +298,10 @@ img#MwUoQhu {
         <button class="no-export grid-delete-item" onclick="deleteItem('MpixNFe')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><grid-item id="QIvFPYg" class="clickable-div">
         <item-head id="nheYVfI">
-          <img id="kRFUwiB" src="https://images.unsplash.com/photo-1558470598-a5dda9640f68?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyfHxjb2xvcnN8ZW58MHwwfHx8MTcxNjY2NDQ0NXww&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy">
+          <img id="kRFUwiB" src="https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw3fHxmb29kfGVufDB8MHx8fDE3MjE4MTY1MDF8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="kCbLqdk">
-          <item-desc id="PsJRCQe" contenteditable="true"> <a href="" class="grid-link">Lorem</a>
+          <item-desc id="PsJRCQe" contenteditable="true"> <a href="https://paltas.com" class="grid-link">paltas.com</a>
         </item-desc></item-body>
         <button class="no-export grid-delete-item" onclick="deleteItem('QIvFPYg')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><grid-item id="RmgpukE" class="clickable-div">
