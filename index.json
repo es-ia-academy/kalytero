@@ -1,5 +1,5 @@
 <style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">html{
-    scroll-padding: 0px 0px 0px 500px;
+    scroll-padding: 500px 0px 0px 500px;
 }
 body,
 grid-page {
