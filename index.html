@@ -160,106 +160,133 @@ img#MwUoQhu {
   <section id="TJMEUwv" data-type="section">
       
       <!--CSS-->
-      <style id="NQvTwlA" type="text/css" data-type="css" data-size="laptop" data-content="section">
-  grid-container#pshsmuY {
-    position: relative;
-  }
-  grid-box#rnjKELI{
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(80px,80px));
-    grid-auto-rows: auto;
-    gap: 20px;
-    width: 100%;
-    height: 100%;
-    padding: 3%;
-    place-content: baseline;
-  }
-  grid-bg#HsEWhHn {
-    position: absolute;
-    height:100%;
-    width:100%;
-    z-index:-1;
-    display:block;
-  }
-  div#wIVWNDq,
-  div#LntipeF,
-  div#mvaGDMY,
-  div#xkZUthB{
-    height:100%;
-    width:100%;
-  }
+      <style id="NQvTwlA" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-container#pshsmuY {
+  position: relative;
+}
 
-  div#FzGXzEJ{
-    height:100%;
-    width:100%;
-    
-  }
+grid-box#rnjKELI {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(80px, 80px));
+  grid-auto-rows: auto;
+  gap: 20px;
+  width: 100%;
+  height: 100%;
+  padding: 3%;
+  place-content: baseline;
+}
 
-  div#OsUeekS{
-    height:100%;
-    width:100%;
-    
-  }
+grid-bg#HsEWhHn {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  display: block;
+}
 
-  img#AnhjoYd {
-    object-fit:cover;
-    height:100%;
-    width:100%;
-  }
+div#wIVWNDq,
+div#LntipeF,
+div#mvaGDMY,
+div#xkZUthB {
+  height: 100%;
+  width: 100%;
+}
 
-  video#SoJAjCr {
-    object-fit:cover;
-    height:100%;
-    width:100%;
-  }
-  grid-box#rnjKELI grid-item {
-    display:grid;
-    border-radius: 10px;
-    overflow: hidden;
-    place-content: start center;
-    place-items: center;
-  }
-  grid-box#rnjKELI item-body {
-    padding: 0px;
-    display: grid;
-    gap: 10px;
-  }
+div#FzGXzEJ {
+  height: 100%;
+  width: 100%;
+}
 
-  grid-box#rnjKELI grid-title {
-    font-size:1.5rem;
-    color:black;
-  }
+div#OsUeekS {
+  height: 100%;
+  width: 100%;
+}
 
-  grid-box#rnjKELI grid-desc {
-    font-size: 12px;
-    color: #929292;
-  }
+img#AnhjoYd {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
 
-  grid-box#rnjKELI item-title {
-    color: black;
-  }
+video#SoJAjCr {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
 
-  grid-box#rnjKELI item-desc {
-    display: grid;
-    font-size: 12px;
-    color: #929292;
-    text-align:center;
-  }
-  grid-head#TlCYtnP{
-    grid-column: 1 / -1;
-    display: grid;
-    margin-left: 15px;
-  }
-  grid-box#rnjKELI item-head img{
-    background-color: white;
-    height: 80px;
-    width: 80px;
-    object-fit: cover;
-    padding: 0px;
-    border-radius: 50%;
-    border: none;
-  }
-  </style>
+grid-box#rnjKELI grid-item {
+  display: grid;
+  border-radius: 10px;
+  overflow: hidden;
+  place-content: start center;
+  place-items: center;
+}
+
+grid-box#rnjKELI item-body {
+  padding: 0px;
+  display: grid;
+  gap: 10px;
+}
+
+grid-box#rnjKELI grid-title {
+  font-size: 1.5rem;
+  color: black;
+}
+
+grid-box#rnjKELI grid-desc {
+  font-size: 12px;
+  color: #929292;
+}
+
+grid-box#rnjKELI item-title {
+  color: black;
+}
+
+grid-box#rnjKELI item-desc {
+  display: grid;
+  font-size: 12px;
+  color: #929292;
+  text-align: center;
+}
+
+grid-head#TlCYtnP {
+  grid-column: 1 / -1;
+  display: grid;
+  margin-left: 15px;
+}
+
+grid-box#rnjKELI item-head img {
+  background-color: white;
+  height: 80px;
+  width: 80px;
+  object-fit: cover;
+  padding: 0px;
+  border-radius: 50%;
+  border: none;
+}
+.clickable-div {
+  position: relative;
+}
+
+.clickable-div::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1; /* Asegúrate de que este valor sea mayor que el contenido interno */
+}
+
+.clickable-div .grid-link {
+  position: relative;
+  z-index: 2; /* Asegúrate de que este valor sea mayor que el pseudo-elemento */
+  display: block; /* Para que el enlace cubra todo el área del pseudo-elemento */
+  width: 100%;
+  height: 100%;
+  text-decoration: none; /* Opcional: para quitar el subrayado del enlace */
+}
+
+</style>
       <style id="pmLBujH" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
   grid-box#rnjKELI {
     display: grid;
@@ -301,7 +328,7 @@ img#MwUoQhu {
 
           <grid-box id="rnjKELI">
             <grid-head id="TlCYtnP">
-              <grid-title id="HRAnCce">New link CSS</grid-title>
+              <grid-title id="HRAnCce">New link CSS OK</grid-title>
               <grid-desc id="PMGfGZW">Lorem ipsum dolor sit amet</grid-desc>
             </grid-head>
             <grid-item id="tzYJeca" class="clickable-div">
