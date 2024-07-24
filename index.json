@@ -6,7 +6,8 @@ grid-page {
   height: 100%;
   overflow-x: hidden;
   position: absolute;
-  scroll-margin-top: 280px;
+  scroll-snap-type: y mandatory;
+  scroll-margin-bottom: 280px;
 }
 
 grid-body {
