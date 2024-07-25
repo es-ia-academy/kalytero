@@ -172,13 +172,7 @@ grid-title{
 
             <grid-item id="TmqptTT">
               <grid-box id="AjIaegT">
-                <grid-item id="oHjLuHy">
-        <a id="etyXVuq" href="#XsBGiOS" contenteditable="true"><span style="font-weight: 900; text-align: center;">#XsBGiOS</span></a>
-        <button class="no-export button-delete-item" onclick="deleteItem('oHjLuHy')"><img src="./assets/svg/icons/delete.svg"></button>
-    </grid-item><grid-item id="hCyHkau">
-        <a id="xKzxlPe" href="#" contenteditable="true">Lorem ipsum</a>
-        <button class="no-export button-delete-item" onclick="deleteItem('hCyHkau')"><img src="./assets/svg/icons/delete.svg"></button>
-    </grid-item><button id="JaQVoTp" class="no-export grid-add-item" onclick="itemsButtons('AjIaegT','JaQVoTp')">+</button>
+                <button id="JaQVoTp" class="no-export grid-add-item" onclick="itemsButtons('AjIaegT','JaQVoTp')">+</button>
               </grid-box>
             </grid-item>
 
@@ -188,13 +182,7 @@ grid-title{
 
             <grid-item id="PVIYDDw">
               <grid-box id="PwQCzoQ">
-                <grid-item id="bTMTKBd">
-        <a id="OZJRinS" href="#" contenteditable="true">Lorem ipsum</a>
-        <button class="no-export button-delete-item" onclick="deleteItem('bTMTKBd')"><img src="./assets/svg/icons/delete.svg"></button>
-    </grid-item><grid-item id="eKVXfhJ">
-        <a id="OPvYnzC" href="#" contenteditable="true">Lorem ipsum</a>
-        <button class="no-export button-delete-item" onclick="deleteItem('eKVXfhJ')"><img src="./assets/svg/icons/delete.svg"></button>
-    </grid-item><button id="tCBdAQG" class="no-export grid-add-item" onclick="itemsButtons('PwQCzoQ','tCBdAQG')">+</button>
+                <button id="tCBdAQG" class="no-export grid-add-item" onclick="itemsButtons('PwQCzoQ','tCBdAQG')">+</button>
               </grid-box>
             </grid-item>
 
