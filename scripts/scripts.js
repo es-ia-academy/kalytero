@@ -1,20 +1,20 @@
-// Smooth scrolling para los enlaces del menú
+// Smooth scrolling para los enlaces del menÃº
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', function (e) {
         e.preventDefault();
 
-        // Obtén el id del destino del ancla
+        // ObtÃ©n el id del destino del ancla
         const targetId = this.getAttribute('href');
 
-        // Asegúrate de que el destino existe
+        // AsegÃºrate de que el destino existe
         const targetElement = document.querySelector(targetId);
         if (!targetElement) return;
 
-        // Obtén la altura de la sección con data-type="navigation"
+        // ObtÃ©n la altura de la secciÃ³n con data-type="navigation"
         const navSection = document.querySelector('section[data-type="navigation"]');
         const navHeight = navSection ? navSection.offsetHeight : 0;
 
-        // Calcula la posición de destino
+        // Calcula la posiciÃ³n de destino
         const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset - navHeight;
 
         // Realiza el desplazamiento suave
