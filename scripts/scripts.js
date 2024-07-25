@@ -29,15 +29,20 @@ document.addEventListener('DOMContentLoaded', () => {
             const targetPosition = targetRect.top + pageYOffset - navHeight;
             console.log(`Target position: ${targetPosition}`);
 
-          
+            // Usar scrollTo
+            window.scrollTo({
+                top: targetPosition,
+                behavior: 'smooth'
+            });
 
-           
-            targetElement.scrollIntoView({
-                 behavior: 'smooth',
-                 block: 'start'
-             });
+            // Alternativa: Desplazarse usando scrollIntoView con un desplazamiento adicional
+            // setTimeout(() => {
+            //     targetElement.scrollIntoView({
+            //         behavior: 'smooth',
+            //         block: 'start'
+            //     });
+            //     window.scrollBy(0, -navHeight);  // Ajustar por la altura de navegación
+            // }, 0);
         });
     });
 });
-
-
