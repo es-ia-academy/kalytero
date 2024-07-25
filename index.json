@@ -1,7 +1,4 @@
-<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">html{
-    scroll-padding: 500px 0px 0px 500px;
-}
-body,
+<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">body,
 grid-page {
   background: white;
   display: block;
